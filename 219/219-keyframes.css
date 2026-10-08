@@ -51,19 +51,19 @@
     1% {
         opacity: 1;
         visibility: visible;
-        top: 50%;
+        top: 55%;
     }
 
     19% {
         opacity: 1;
         visibility: visible;
-        top: 50%;
+        top: 55%;
     }
 
     20% {
         opacity: 0;
         visibility: hidden;
-        top: 50%;
+        top: 55%;
     }
 
     to {
